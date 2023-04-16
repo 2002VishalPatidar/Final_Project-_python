@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 103,
+        "Name": "pizza",
+        "price": 20,
+        "Discount": 0,
+        "Stock": 40
+    },
+    {
+        "Id": 104,
+        "Name": "Hot dog",
+        "price": 20,
+        "Discount": 0,
+        "Stock": 10
+    },
+    {
+        "Id": 106,
+        "Name": "icream",
+        "price": 30,
+        "Discount": 0,
+        "Stock": 40
+    },
+    {
+        "Id": 107,
+        "Name": "soda",
+        "price": 70,
+        "Discount": 0,
+        "Stock": 79
+    },
+    {
+        "Id": 109,
+        "Name": "sandwich",
+        "price": 20,
+        "Discount": 0,
+        "Stock": 10
+    }
+]

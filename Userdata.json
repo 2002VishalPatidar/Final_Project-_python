@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "Name": "Vishal",
+        "password": "Vishal9174",
+        "Age": "7",
+        "Email": "vishp....@gmail.com",
+        "Phone_no": "9174958282",
+        "Address": "indore"
+    },
+    {
+        "id": 2,
+        "Name": "vishal",
+        "password": "h",
+        "Age": "in",
+        "Email": "@gamil",
+        "Address": "ujjain",
+        "phone_no": "9175"
+    },
+    {
+        "id": 3,
+        "Name": "ram",
+        "password": "9174",
+        "Age": "",
+        "Email": "",
+        "Address": "ujjain",
+        "phone_no": "999"
+    },
+    {
+        "id": 4,
+        "Name": "ankit",
+        "password": "0001",
+        "Age": "20",
+        "Email": "@Email:com",
+        "Address": "indore",
+        "phone_no": "9999"
+    },
+    {
+        "id": 10,
+        "Name": "govind",
+        "password": "888",
+        "Age": "25",
+        "Email": "gmail.com",
+        "Address": "shajapur",
+        "phone_no": "9100"
+    }
+]
